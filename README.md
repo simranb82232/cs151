@@ -1,4 +1,4 @@
-Simran Bains
-013609687
-Software Engineering
+Simran Bains\
+013609687\
+Software Engineering\
 simran.bains@sjsu.edu
